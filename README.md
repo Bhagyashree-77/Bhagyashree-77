@@ -74,10 +74,11 @@ python,jupyter notebook ,html,css,react,next.js,git,docker,mysql,postgres,aws,ta
 ## Top Projects
 
 - [**Diffusers**](https://github.com/Bhagyashree-77/diffusers): State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX. (⭐ 0)
+- [**CNN product extraction**](https://github.com/Bhagyashree-77/CNN-PRODUCT-image-extraction): CNN based product extraction using OCR and prediction of this product features and analysis using regression  (⭐ 0)
 - [**Machine Learning**](https://github.com/Bhagyashree-77/Machine-Learning): A repository dedicated to learning machine learning from scratch. (⭐ 0)
-- [**Tic Tac Toe - AI**](https://github.com/Bhagyashree-77/Tic_Tac_Toe_-AI): A simple Tic Tac Toe game with an AI opponent using the Pygame library. (⭐ 0)
+- [**Credit_card fraud detection**](https://github.com/Bhagyashree-77/Credit-Card-fraud-detection-app): Training model using logistic regresion  credit_card csv and getting fraudulent and non-fradulent predictions . (⭐ 0)
 - [**Healthtech**](https://github.com/Bhagyashree-77/Healthtech): A project focused on health technology solutions. (⭐ 0)
-- [**Chrome Extension AI**](https://github.com/Bhagyashree-77/chrome_extension_ai): A Chrome extension that integrates AI functionalities. (⭐ 0)
+- [**WealthWise_women AI**](): A Chrome extension that integrates AI functionalities. (⭐ 0)
 
 ## GitHub Stats
 
