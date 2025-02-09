@@ -33,7 +33,7 @@ python,jupyter notebook ,html,css,react,next.js,git,docker,mysql,postgres,aws,ta
 
 ###
 
-<h6 align="left">I'm ... from ....Mumbai<br><br>- 🔭 I'm currently finding opportunities to explore ML fields and training the models <br>- 📚 I'm currently learning ...machine learning and aws backend api developement <br>- ⚡ In my free time I ...love to watch movies ,spend time debugging and reading</h6>
+<h6 align="left"> <br><br>- 🔭 I'm currently finding opportunities to explore ML fields and training the models <br>- 📚 I'm currently learning ...machine learning and aws backend api developement <br>- ⚡ In my free time I ...love to watch movies ,spend time debugging and reading</h6>
 
 ###
 
