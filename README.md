@@ -77,8 +77,9 @@ python,jupyter notebook ,html,css,react,next.js,git,docker,mysql,postgres,aws,ta
 - [**CNN product extraction**](https://github.com/Bhagyashree-77/CNN-PRODUCT-image-extraction): CNN based product extraction using OCR and prediction of this product features and analysis using regression  (⭐ 0)
 - [**Machine Learning**](https://github.com/Bhagyashree-77/Machine-Learning): A repository dedicated to learning machine learning from scratch. (⭐ 0)
 - [**Credit_card fraud detection**](https://github.com/Bhagyashree-77/Credit-Card-fraud-detection-app): Training model using logistic regresion  credit_card csv and getting fraudulent and non-fradulent predictions . (⭐ 0)
+- [**Diabetic_ML_Model**](https://github.com/Bhagyashree-77/Diabetic_HBA1C_level_ML) A project based on diabeties HBA1C level prediction having classification regression and clustering methods to get diabeties detection 
 - [**Healthtech**](https://github.com/Bhagyashree-77/Healthtech): A project focused on health technology solutions. (⭐ 0)
-- [**WealthWise_women AI**](): A Chrome extension that integrates AI functionalities. (⭐ 0)
+- [**WealthWise_women AI**](https://github.com/Bhagyashree-77/wealthwise_women_ai__pf): A Chrome extension that integrates AI functionalities. (⭐ 0)
 
 ## GitHub Stats
 
